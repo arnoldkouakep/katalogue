@@ -3,6 +3,7 @@
 
 # Dossiers générés par Maven
 /target/
+/bankocr/target/
 
 # Ignorer les logs
 *.log
@@ -19,7 +20,9 @@
 .project
 .classpath
 /.settings/
+/bankocr/.settings/
 /bin/
+/bankocr/bin/
 
 # NetBeans
 /nbproject/private/
