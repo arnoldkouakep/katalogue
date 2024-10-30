@@ -1,0 +1,41 @@
+# Ignorer les fichiers compilés
+*.class
+
+# Dossiers générés par Maven
+/target/
+
+# Ignorer les logs
+*.log
+*.log.*
+
+# Ignorer les configurations spécifiques aux IDE
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+/out/
+
+# Eclipse
+.project
+.classpath
+/.settings/
+/bin/
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Ignorer les fichiers de configuration système
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers de packaging spécifiques
+*.jar
+*.war
